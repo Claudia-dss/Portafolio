@@ -1,0 +1,370 @@
+body {
+    background: linear-gradient(
+    45deg,
+    rgb(0, 0, 0) 25%,
+    rgb(45, 13, 63) 73%
+    );
+    font-family: "Chakra Petch", serif; /*Si ponemos system-ui cargara la fuente del sistema operativo*/
+    font-weight: 400;
+    font-style: normal;
+}
+
+header{
+    margin: 2.5rem; 
+}
+
+.banderas{
+    width: 75px;
+    display:flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bandera__item{
+    width: 30px;
+}
+
+.encabezado {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    padding-top:0%;
+    margin: 0%;
+    padding: 0%;
+}
+
+#img-propia {
+    border: 3px solid #752380;
+    border-radius: 100px 100px 100px 100px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);  
+    align-items:baseline;
+    width: 15%;
+    height: 15%;
+    margin-top: 2%;
+    padding-top:0%;
+}
+
+/*¡Hola! Soy Claudia dos Santos*/
+.titulo {
+    color: rgb(211, 183, 223);
+    font-size: 35px;
+    padding-top:0%;
+    margin-left: -2%;
+}
+
+/*Full-stack Developer*/
+#primero {
+    margin-top:-3%;
+    margin-left: 6%;
+    font-size:large;
+}
+
+.full-stack {
+    display:flex;
+    flex-direction: row;
+    color:#752380;
+    padding:1rem;
+}
+
+/*Bocadillo-boton*/
+.acerca-de-mi {
+    position: relative;
+    display: block;
+    align-items: right;
+    justify-content: center;
+    overflow: hidden;
+    padding: 1rem;
+    margin-right: 20%;
+    margin-top: -2%;
+    background-color:transparent;
+    border-style: solid;
+    border-radius: 90px 0 90px 90px;
+    border-color: #752380;
+    font-size: 15x;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);  
+    z-index: 1;
+}
+
+.adm_palabra{
+    padding:0;
+    margin:0;
+}
+
+.presentacion {
+    font-size: 15px;
+    color:rgb(211, 183, 223);
+}
+
+.main{
+    display: grid;
+    gap: 4px;
+    grid-template-columns: 30% 30%;
+    grid-template-rows: auto;
+    justify-content: center;
+}
+
+@media screen and (min-width: 720px) {
+    .main{
+        grid-template-columns: 30% 30%; 
+    }
+}
+
+/* Contenedor principal */
+.column--front{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    margin: .5rem;
+}
+
+.column--back{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    margin: .5rem;
+}
+
+.column--herram{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    margin: .5rem;
+}
+
+.column--exp{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    margin: .5rem;
+}
+
+.column--form{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    margin: .5rem;
+}
+
+.card__title{
+    font-size: 27px;
+    text-align: center;
+    margin:0;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    font-size: clamp(16px, 5vw, 20px); /* Tamaños más pequeños para móviles */
+}
+
+@media screen and (max-width: 768px) {
+    .card__title {
+        font-size: 20px; /* Reducir un poco más en tablets y móviles */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .card__title {
+        font-size: 18px; /* Reducir aún más en móviles */
+    }
+}
+
+.card_front, .card_back {
+    background: linear-gradient(
+        45deg,
+        rgb(0, 0, 0) 25%,
+        rgb(45, 13, 63) 73%
+    );
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #752380;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    transform-style: preserve-3d;
+    transition: .5s, color .10s;
+    min-height: 200px; /* Establecer altura mínima más pequeña */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+    align-items: center;
+    position: relative;
+}
+
+.card_front:hover{
+    transform: rotateY(180deg);
+}
+
+.card_back:hover{
+    transform: rotateY(180deg);
+}
+
+.card_back .iconos_skills {
+    flex-wrap: nowrap; /* Mantener en una sola fila */
+    gap: 20px;
+}
+
+.card-a-face, .card-b-face{
+    backface-visibility: hidden;
+    display: flex;
+    position:absolute;
+    padding: 10px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.card-b-face{
+    transform: rotateY(180deg);
+}
+
+.card_herram{
+    padding: 1em;
+    background: linear-gradient(
+        45deg,
+        rgb(0, 0, 0) 25%,
+        rgb(45, 13, 63) 73%
+    );
+    border-radius: 20px;
+    border-style: solid;
+    transform-style: preserve-3d;
+    border-color: #752380;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    transition: .5s, color .10s;
+    min-height: 200px; /* Establecer altura mínima más pequeña */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.card_herram:hover{
+    transform: rotateY(180deg);
+}
+
+.card--experience{
+    padding: 0.5em;
+    background: linear-gradient(
+        45deg,
+        rgb(0, 0, 0) 25%,
+        rgb(45, 13, 63) 73%
+    );
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #752380;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.card_estudios{
+    padding: 0.3em;
+    background: linear-gradient(
+        45deg,
+        rgb(0, 0, 0) 25%,
+        rgb(45, 13, 63) 73%
+    );
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #752380;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.exp__redact{
+    color:rgb(211, 183, 223);
+    margin: 1em;
+}
+
+.exp__redact_otros{
+    color:rgb(211, 183, 223);
+    margin: 1em;
+}
+
+.formacion{
+    color:rgb(211, 183, 223);
+    margin: 2em;
+}
+
+.skills{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.skills__item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.iconos_skills{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+    padding: 10px;
+}
+
+.iconos_contacto {
+    display: flex;
+    flex-direction: row;
+    margin:0.5rem;
+    justify-content: center;
+}
+
+span{
+    margin: 0.5em;
+    margin-top: 0;
+    display:inline-flex;
+    align-items:baseline;
+    flex-direction: row;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #752380;
+    padding: 0.3em;
+}
+
+.no-padding{
+    padding-top: 0;
+}
+
+h2{
+    font-family: "Chakra Petch", serif;
+    color:#752380;
+}
+
+h3{
+    font-family: "Chakra Petch", serif;
+    color:#752380;
+}
+
+h4{
+    color:rgb(211, 183, 223);
+}
+
+p {
+    font-family: "Chakra Petch", serif;
+    color: rgb(211, 183, 223);
+    font-size: 20px;
+}
+
+ul {
+    color: #752380;
+    margin-left: 350px;
+}
+
+/*Footer*/
+.piePag{
+    margin-bottom: 3%;
+}
