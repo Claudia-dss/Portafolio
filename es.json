@@ -1,0 +1,25 @@
+{
+    "encabezado": {
+        "titulo": "¡Hola!<br>Soy Ana Claudia dos Santos"
+    },
+    "acerca-de-mi": {
+        "adm_frase": "Acerca de mi.",
+        "presentacion": "Desde siempre me ha apasionado la logica, la practica y la investigación, gracias a mi paso por la sanidad. <br>Me caracterizo por mi interés en aprender, por mi autonomía en el aprendizaje, por mi curiosidad y por mi interés en mejorar mis habilidades. Por eso sé que el desarrollo web es mi sitio."
+    },
+    "card_herram": {
+        "card__title__herram": "Herramientas"
+    },
+    "card--experience": {
+        "card__title__exp": "Experiencia",
+        "exp__redact": "<strong>Proyecto Personal:</strong> Gestor de Cuidado de Plantas (2024 - Presente)<br>Desarrollo full-stack de una aplicación web para gestionar el cuidado de plantas domésticas. La aplicación permitirá registrar plantas y recibir recordatorios de mantenimiento. Implementación de la interfaz de usuario utilizando HTML, CSS y JavaScript. Creación de la lógica de servidor y la base de datos utilizando XAMPP y MySQL.",
+        "hastag1":"<span>#JavaScript #CSS #HTML #SQL #CRUD #IA</span>",
+        "exp__redact-2": "<strong>Juego:</strong> TicTacToe. (2025)<div>Desarrollo de un juego interactivo de tres en raya en Java utilizando NetBeans. Implementación de lógica de turnos, detección de victorias/empates e interfaz básica. Tecnologías utilizadas: Java, NetBeans.</div> ",
+        "hastag2":"<span>#Java #NetBeans #UX</span>",
+        "card__title__other_exp": "Experiencia en otros campos",
+        "exp__redact_otros": "<strong>Logística/Mercado Circular | IKEA (07/2022 - Actualidad)</strong><br>-Atención al Detalle.<br>-Trabajo en Equipo.<br>-Gestión del Tiempo.<br>-Resolución de Problemas.<br><br><strong>Operadora de Seguimiento | ILUNION SocioSanitario (10/2019 - 03/2020)</strong><br>-Habilidades de comunicación y resolución de problemas."
+    },
+    "card_estudios": {
+        "card__title": "Formación",
+        "formacion": "-TÉCNICO SUPERIOR EN DESARROLLO WEB (CURSANDO)<br>INSTITUTO FP JOSÉ MARTINEZ | 2024 - ACTUALIDAD<br><br>-CURSO DE DESARROLLO CON IA.<br>BIG SCHOOL | 2025 (6 HORAS)<br><br>-CURSO DE LABORATORIO CLÍNICO.<br>CAMPUS TRAINING | 2021 - 2022<br>+Prácticas en Hospital Ruber Juan Bravo (análisis de muestras).<br><br>-TÉCNICO SUPERIOR EN ANATOMÍA PATOLÓGICA.<br>UNIVERSIDAD EUROPEA | 2018 - 2020<br><br>-TÉCNICO EN EMERGENCIAS SANITARIAS.<br>COLEGIO SANTA GEMA GALGANI | 2016 - 2018<br>+Prácticas en Vitalia S.A (asistencia a pacientes)."
+    }
+}

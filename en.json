@@ -1,0 +1,25 @@
+{
+    "encabezado": {
+        "titulo": "Hello!<br>I'm Ana Claudia dos Santos"
+    },
+    "acerca-de-mi": {
+        "adm_frase": "About Me",
+        "presentacion": "I have always been passionate about logic, practicality, and research, thanks to my background in healthcare.<br>I am characterized by my interest in learning, my autonomy in learning, my curiosity, and my interest in improving my skills. That's why I know web development is where I belong."
+    },
+    "card_herram": {
+        "card__title__herram": "Tools"
+    },
+    "card--experience": {
+        "card__title__exp": "Experience",
+        "exp__redact": "<strong>Personal Project:</strong> Plant Care Manager (2024 - Present)<br>Full-stack development of a web application for managing the care of domestic plants. The application will allow users to register plants and receive maintenance reminders. Implementation of the user interface using HTML, CSS, and JavaScript. Creation of server logic and database using XAMPP and MySQL.",
+        "hastag1":"<span>#JavaScript #CSS #HTML #SQL #CRUD #IA</span>",
+        "exp__redact-2": "<strong>Game:</strong> TicTacToe. (2025)<div>Development of an interactive Tic-Tac-Toe game in Java using NetBeans. Implementation of turn-based logic, win/draw detection, and a basic user interface. Technologies used: Java, NetBeans.</div> ",
+        "hastag2":"<span>#Java #NetBeans #UX</span>",
+        "card__title__other_exp": "Experience in unrelated fields",
+        "exp__redact_otros": "<strong>Logistics/Circular Market | IKEA (07/2022 - Present)</strong><br>-Attention to Detail.<br>-Teamwork.<br>-Time Management.<br>-Problem Solving.<br><br><strong>Follow-up Operator | ILUNION SocioSanitario (10/2019 - 03/2020)</strong><br>-Communication and problem-solving skills."
+    },
+    "card_estudios": {
+        "card__title": "Education",
+        "formacion": "-HIGHER TECHNICAL DEGREE IN WEB DEVELOPMENT (IN PROGRESS).<br>FP INSTITUTE JOSÉ MARTINEZ | 2024 - PRESENT<br><br>-AI DEVELOPMENT COURSE.<br>BIG SCHOOL | 2025 (6 HOURS)<br><br>-CLINICAL LABORATORY COURSE.<br>CAMPUS TRAINING | 2021 - 2022<br>+Internship at Hospital Ruber Juan Bravo (sample analysis).<br><br>-HIGHER TECHNICAL DEGREE IN PATHOLOGICAL ANATOMY.<br>EUROPEAN UNIVERSITY | 2018 - 2020<br><br>-EMERGENCY MEDICAL TECHNICIAN.<br>SANTA GEMA GALGANI | 2016 - 2018<br>+Internship at Vitalia S.A (patient assistance)."
+    }
+}
