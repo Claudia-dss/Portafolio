@@ -53,6 +53,34 @@ header{
     margin-left: -2%;
 }
 
+@media screen and (max-width: 768px) {
+    .encabezado {
+        flex-direction: column; /*para que la foto se quede arriba u el bocadillo abajo*/
+        align-items: center;
+        text-align: center;
+    }
+
+    #img-propia {
+        width: 150px;
+        height: 150px;
+        margin-bottom: 1rem;
+    }
+
+    .titulo {
+        margin-left: 0;
+    }
+
+    .full-stack {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .acerca-de-mi {
+        margin-right: 0; 
+        border-radius: 40px;
+    }
+}
+
 /*Full-stack Developer*/
 #primero {
     margin-top:-3%;
@@ -101,15 +129,24 @@ header{
 
 .main{
     display: grid;
-    gap: 4px;
-    grid-template-columns: 30% 30%;
-    grid-template-rows: auto;
+    gap: 20px;
+    grid-template-columns: 1fr;
+    padding: 1rem;
+    /*grid-template-columns: 30% 30%;*/
+    /*grid-template-rows: auto;*/
     justify-content: center;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
     .main{
-        grid-template-columns: 30% 30%; 
+        grid-template-columns: repeat(2, 1fr);
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+    /* Definimos que ocupe las dos columnas */
+    .column--herram {
+        grid-column: 1 / span 2;
     }
 }
 
@@ -175,7 +212,7 @@ header{
     }
 }
 
-.card_front, .card_back {
+.card_front, .card_back, .card_herram{
     background: linear-gradient(
         45deg,
         rgb(0, 0, 0) 25%,
@@ -187,13 +224,15 @@ header{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
     transform-style: preserve-3d;
     transition: .5s, color .10s;
-    min-height: 200px; /* Establecer altura mínima más pequeña */
+    min-height: 250px;
+    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: center;
     box-sizing: border-box;
     align-items: center;
     position: relative;
+    perspective: 1000px;
 }
 
 .card_front:hover{
@@ -214,7 +253,7 @@ header{
     backface-visibility: hidden;
     display: flex;
     position:absolute;
-    padding: 10px;
+    padding: 1.5rem;
     height: 100%;
     width: 100%;
     display: flex;
@@ -229,26 +268,6 @@ header{
     transform: rotateY(180deg);
 }
 
-.card_herram{
-    padding: 1em;
-    background: linear-gradient(
-        45deg,
-        rgb(0, 0, 0) 25%,
-        rgb(45, 13, 63) 73%
-    );
-    border-radius: 20px;
-    border-style: solid;
-    transform-style: preserve-3d;
-    border-color: #752380;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
-    transition: .5s, color .10s;
-    min-height: 200px; /* Establecer altura mínima más pequeña */
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-}
 .card_herram:hover{
     transform: rotateY(180deg);
 }
@@ -301,15 +320,31 @@ header{
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    gap: 10px;
+    gap: 15px;
 }
 
-.skills__item{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    margin: 5px;
+.skills__item img {
+    width: 50px; 
+    transition: transform 0.3s ease;
+}
+
+.skills__item img:hover {
+    transform: scale(1.2);
+}
+
+/* Ajuste del Header para móvil */
+@media screen and (max-width: 768px) {
+    .encabezado {
+        flex-direction: column; 
+        align-items: center;
+        text-align: center;
+    }
+
+    #img-propia {
+        width: 150px;
+        height: 150px;
+        margin-bottom: 1rem;
+    }
 }
 
 .iconos_skills{
@@ -326,7 +361,13 @@ header{
     flex-direction: row;
     margin:0.5rem;
     justify-content: center;
+    transition: transform 0.3s ease;
 }
+
+.socicon:hover {
+    transform: scale(1.2);
+}
+
 
 span{
     margin: 0.5em;
