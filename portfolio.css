@@ -82,7 +82,6 @@ header{
     border-radius: 90px 0 90px 90px;
     border-color: #752380;
     font-size: 15x;
-    cursor: pointer;
     font-size: 20px;
     text-align: center;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);  
@@ -210,7 +209,7 @@ header{
 
 .column--front:hover .card_front{
     transform: rotateY(180deg);
-    box-shadow: 0 0 25px rgba(117, 35, 128, 0.8);
+    box-shadow: 0 0 25px rgba(117, 35, 128, 0.8);/*al pasar el ratón, se ilumina la card*/
     border-color: #bc42f5;
 }
 
@@ -331,9 +330,14 @@ header{
 .iconos_skills{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content:center;
     height: auto;
     max-width: 50px;
+    padding: 5px;
+}
+
+.icono_pie{
+    justify-content: center;
     padding: 5px;
 }
 
@@ -360,6 +364,10 @@ span{
     border-style: solid;
     border-color: #752380;
     padding: 0.3em;
+}
+
+small{
+    color: rgb(211, 183, 223);
 }
 
 h2{
