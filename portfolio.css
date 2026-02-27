@@ -53,34 +53,6 @@ header{
     margin-left: -2%;
 }
 
-@media screen and (max-width: 768px) {
-    .encabezado {
-        flex-direction: column; /*para que la foto se quede arriba u el bocadillo abajo*/
-        align-items: center;
-        text-align: center;
-    }
-
-    #img-propia {
-        width: 150px;
-        height: 150px;
-        margin-bottom: 1rem;
-    }
-
-    .titulo {
-        margin-left: 0;
-    }
-
-    .full-stack {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .acerca-de-mi {
-        margin-right: 0; 
-        border-radius: 40px;
-    }
-}
-
 /*Full-stack Developer*/
 #primero {
     margin-top:-3%;
