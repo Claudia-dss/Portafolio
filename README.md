@@ -14,14 +14,16 @@ Estoy estudiando actualmente el Grado Superior en Desarrollo de Aplicaciones Web
 
 •  CSS
 
+•  JavaScript
+
 
 -Back-end & Databases:
 
 •  MYSQL
 
-•  JavaScript
-
 •  PHP
+
+•  JAVA
 
 
 -Herramientas:
@@ -36,11 +38,15 @@ Estoy estudiando actualmente el Grado Superior en Desarrollo de Aplicaciones Web
 
 •  XAMPP
 
+•  Astro
+
+•  WordPress
+
 
 
 📚 Actualmente aprendiendo:
 
-• PHP y AJAX.
+• AJAX.
 
 --------------------------------------------------------------------------------
 📂 Proyectos Destacados
