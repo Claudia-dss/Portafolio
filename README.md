@@ -71,7 +71,7 @@ Estoy estudiando actualmente el Grado Superior en Desarrollo de Aplicaciones Web
 --------------------------------------------------------------------------------
 📈 Formación Destacada
 
-• Técnico Superior en Desarrollo Web (En curso) - Instituto FP José Martínez.
+• Técnico Superior en Desarrollo Web (2026) - Instituto FP José Martínez.
 
 • Curso de Desarrollo con IA - Big School (2025).
 
