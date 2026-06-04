@@ -30,17 +30,11 @@
     "skills.cat3": "Herramientas & CMS",
     "skills.cat4": "Inteligencia Artificial",
 
-    "exp.tag":    "Experiencia",
-    "exp.title":  "Mi experiencia dentro del sector",
-    "exp.period": "Marzo 2026 — Junio 2026",
-    "exp.type":   "Prácticas",
+    "exp.tag":    "Experiencia y proyectos",
+    "exp.title":  "Mis experiencias y proyectos dentro del sector",
     "exp.role":   "Desarrolladora Web",
     "exp.li1":    "Desarrollo de proyectos con ciclos semanales usando WordPress, Next.js y Astro, manteniendo estándares de calidad de código en cada entrega.",
     "exp.li3":    "WordPress avanzado: plugins personalizados, CPT, ACF e integración con REST API.",
-
-    "proj.tag":   "Proyectos",
-    "proj.title": "Cosas que he construido",
-
     "proj1.title": "Sistema de Gestión de Plantas",
     "proj1.desc":  "Aplicación web fullstack con CRUD completo, diseñada bajo principios de arquitectura limpia. Pensada para el seguimiento botánico.",
     "proj2.title": "Plugins para WordPress",
@@ -95,17 +89,11 @@
     "skills.cat3": "Tools & CMS",
     "skills.cat4": "Artificial Intelligence",
 
-    "exp.tag":    "Experience",
-    "exp.title":  "My industry experience",
-    "exp.period": "March 2026 — June 2026",
-    "exp.type":   "Internship",
+    "exp.tag":    "Experience and Proyects",
+    "exp.title":  "My industry experience and proyects",
     "exp.role":   "Web Developer",
     "exp.li1":    "Developing projects on weekly cycles using WordPress, Next.js and Astro, maintaining code quality standards in every delivery.",
     "exp.li3":    "Advanced WordPress: custom plugins, CPT, ACF and REST API integration.",
-
-    "proj.tag":   "Projects",
-    "proj.title": "Things I've built",
-
     "proj1.title": "Plant Management System",
     "proj1.desc":  "Fullstack web application with complete CRUD functionality, designed under clean architecture principles for botanical tracking.",
     "proj2.title": "WordPress Plugins",
