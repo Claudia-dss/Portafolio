@@ -1,85 +1,88 @@
-¡Hola! Soy Ana Claudia dos Santos 👋
+# ¡Hola! Soy Ana Claudia dos Santos 👋
 
-Full-stack Developer apasionada por la lógica, la práctica y la investigación. Mi trayectoria profesional comenzó en el sector sanitario, lo que me ha aportado una gran capacidad de análisis y atención al detalle que ahora aplico al desarrollo web. Me caracterizo por mi curiosidad, autonomía en el aprendizaje y un interés constante por mejorar mis habilidades técnicas.
-Me he graduado recientemente en el Grado Superior en Desarrollo de Aplicaciones Web en ISFP José Martínez. Mi experiencia previa en el sector retail y restauración, me ha aportado habilidades como la resolución de problemas y el trabajo en equipo.
+Fullstack Developer enfocada en el **Desarrollo Backend con Java**. Me apasiona construir arquitecturas limpias, código mantenible y soluciones óptimas que resuelvan problemas de negocio reales. 
 
---------------------------------------------------------------------------------
-🛠️ Tecnologías y Herramientas:
+Además de mi sólida base en desarrollo de software, integro de forma estratégica **Agentes de IA y automatizaciones** en mis flujos de trabajo para potenciar la eficiencia del software.
 
+---
 
--Front-end:
+## 🛠️ Mi Stack Técnico
 
-•  HTML
+### Backend & Bases de Datos (Mi Enfoque Principal)
+* **Lenguajes:** Java, JavaScript (ES6), PHP
+* **Frameworks y Entornos:** Node.js, Express, Next.js, Astro
+* **Bases de Datos & Conectores:** MySQL, SQLite, MongoDB, JDBC
 
-•  CSS
+### Frontend & CMS
+* **Maquetación y Estilos:** HTML5, CSS3, Tailwind CSS, Bootstrap
+* **Gestores de Contenido:** WordPress Avanzado (Plugins personalizados, CPT, ACF, REST API)
 
-•  JavaScript
+### Herramientas & IA
+* **Control de Versiones & Entornos:** Git, GitHub, XAMPP, Apache NetBeans
+* **Inteligencia Artificial:** Creación y despliegue de Agentes de IA, Modelos de Lenguaje (LLMs) y Skills de IA
 
+---
 
--Back-end & Databases:
+## 🚀 Lo que sé hacer (Especialización por Lenguaje)
 
-•  MYSQL
+### ☕ Java
+* **Lógica y POO:** Sólida base en Programación Orientada a Objetos, gestión de estados y estructuras de datos complejas.
+* **Persistencia de Datos:** Conexión y manipulación de bases de datos relacionales (MySQL, SQLite) mediante **JDBC**.
+* **Desarrollo de Aplicaciones:** Creación de aplicaciones interactivas y lógica de escritorio utilizando entornos como Apache NetBeans.
 
-•  PHP
+### 🟨 JavaScript / Node.js
+* **Desarrollo Backend:** Creación de arquitecturas de servidor eficientes y seguras utilizando Node.js y Express.
+* **APIs:** Diseño, consumo y desarrollo de APIs RESTful integradas con bases de datos SQL y NoSQL.
+* **Ecosistema Frontend:** Renderizado y optimización mediante Next.js, Astro y Vue 3, priorizando la carga y la accesibilidad.
 
-•  JAVA
+### 🖥️ WordPress
+* **Desarrollo a Medida:** Creación de plugins funcionales desde cero sin dependencias externas innecesarias.
+* **Estructuras Avanzadas:** Dominio de Custom Post Types (CPT), Advanced Custom Fields (ACF) y exposición/consumo de la WordPress REST API.
 
+---
 
--Herramientas:
+## 📁 Proyectos Destacados
 
-•  Visual Studio Code
+### 01. Sistema de Gestión de Plantas (Fullstack)
+Aplicación web integral (CRUD) diseñada bajo estrictos principios de arquitectura limpia para el seguimiento botánico.
+* **Backend:** Lógica de servidor con Node.js y Express.
+* **Base de Datos:** Gestión y persistencia con MySQL / MongoDB.
+* **Frontend:** Interfaz de usuario limpia y adaptable con Bootstrap.
 
-•  Eclipse
+### 02. TicTacToe (Java)
+Juego de tres en raya implementado puramente en Java que demuestra el dominio de la lógica estructurada.
+* **Highlights:** Control estricto de estados de juego, matriz de condiciones de victoria y gestión de flujos de interacción en Apache NetBeans.
 
-•  Github
+### 03. Plugin Personalizado para WordPress
+Diseño y desarrollo de un componente funcional enfocado en el rendimiento y la lógica de negocio limpia.
+* **Tecnologías:** PHP, JavaScript, CSS.
 
-•  Bootstrap
+### 04. Acortador de URLs
+Aplicación fullstack rápida orientada a la optimización de redireccionamiento de enlaces de forma eficiente.
+* **Tecnologías:** Next.js, SQLite, Tailwind CSS (Uso de Route Handlers).
 
-•  XAMPP
+---
 
-•  Astro
+## 💼 Experiencia Relevante
 
-•  WordPress
+* **Desarrolladora Web (Prácticas) en CodeNode** *(Marzo 2026 — Junio 2026)*
+    * Desarrollo de proyectos con ciclos y entregas semanales garantizando altos estándares de calidad y mantenibilidad del código.
+    * Colaboración estrecha con equipos multidisciplinares de producto para alinear el desarrollo técnico con la arquitectura empresarial.
+    * Toma de decisiones técnicas orientadas a la optimización de plugins avanzados en WordPress.
 
+---
 
+## 🎯 Mis Objetivos Actuales y Próximos Pasos
 
-📚 Actualmente aprendiendo:
+* 🎯 **Especialización Java Backend:** Profundizar en frameworks empresariales del ecosistema Java (Spring Boot) para robustecer arquitecturas de microservicios.
+* 🐳 **Dominar Docker:** Aprender a fondo sobre contenerización para estandarizar entornos de desarrollo, despliegue y producción de mis aplicaciones backend.
+* 🤖 **Automatización e IA:** Continuar expandiendo mis habilidades en el desarrollo de **Agentes de IA autónomos** y pipelines automatizados para hacer el software más inteligente.
 
-• AJAX.
+---
 
---------------------------------------------------------------------------------
-📂 Proyectos Destacados
+## 📬 Conéctate conmigo
 
-1. Gestor de Cuidado de Plantas
-   
-    ◦ Aplicación Full-stack para gestionar el mantenimiento de plantas domésticas.
-   
-    ◦ Tecnologías: HTML, CSS, JavaScript, MySQL y XAMPP.
-   
-    ◦ Funcionalidad: Registro de plantas y recordatorios de mantenimiento.
-
-   
-3. TicTacToe (Java)
-   
-    ◦ Desarrollo de un juego interactivo de tres en raya.
-   
-    ◦ Tecnologías: Java y NetBeans.
-   
-    ◦ Enfoque: Implementación de lógica de turnos y detección de victorias.
-
---------------------------------------------------------------------------------
-📈 Formación Destacada
-
-• Técnico Superior en Desarrollo Web (2026) - Instituto FP José Martínez.
-
-• Curso de Desarrollo con IA - Big School (2025).
-
-• Técnico Superior en Anatomía Patológica - Universidad Europea.
-
---------------------------------------------------------------------------------
-📫 Contacto
-
-•  E-mail: aclaudia.santosd@gmail.com
-
-•  Teléfono: +34 672 25 61 84
+* 💼 **LinkedIn:** [/in/ana-claudia-dos-santos](https://www.linkedin.com/in/ana-claudia-dos-santos-423b73207)
+* 📧 **Email:** [aclaudia.santosd@gmail.com](mailto:aclaudia.santosd@gmail.com)
+* 📍 **Ubicación:** Madrid, España
 
