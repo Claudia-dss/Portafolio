@@ -65,7 +65,7 @@ Aplicación fullstack rápida orientada a la optimización de redireccionamiento
 
 ## 💼 Experiencia Relevante
 
-* **Desarrolladora Web (Prácticas) en CodeNode** *(Marzo 2026 — Junio 2026)*
+* **Desarrolladora Web (Prácticas) en CodeNode**
     * Desarrollo de proyectos con ciclos y entregas semanales garantizando altos estándares de calidad y mantenibilidad del código.
     * Colaboración estrecha con equipos multidisciplinares de producto para alinear el desarrollo técnico con la arquitectura empresarial.
     * Toma de decisiones técnicas orientadas a la optimización de plugins avanzados en WordPress.
