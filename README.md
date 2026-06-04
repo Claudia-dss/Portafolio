@@ -1,8 +1,7 @@
 ¡Hola! Soy Ana Claudia dos Santos 👋
 
 Full-stack Developer apasionada por la lógica, la práctica y la investigación. Mi trayectoria profesional comenzó en el sector sanitario, lo que me ha aportado una gran capacidad de análisis y atención al detalle que ahora aplico al desarrollo web. Me caracterizo por mi curiosidad, autonomía en el aprendizaje y un interés constante por mejorar mis habilidades técnicas.
-
-Estoy estudiando actualmente el Grado Superior en Desarrollo de Aplicaciones Web en ISFP Jobie. Mi experiencia previa en el sector retail y restauración, me ha aportado habilidades como la resolución de problemas y el trabajo en equipo.
+Me he graduado recientemente en el Grado Superior en Desarrollo de Aplicaciones Web en ISFP José Martínez. Mi experiencia previa en el sector retail y restauración, me ha aportado habilidades como la resolución de problemas y el trabajo en equipo.
 
 --------------------------------------------------------------------------------
 🛠️ Tecnologías y Herramientas:
