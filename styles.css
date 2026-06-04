@@ -120,6 +120,10 @@ nav {
 section { padding: 4rem 0; }
 .container { max-width: 1080px; margin: 0 auto; padding: 0 1rem; }
 
+#proyectos {
+  padding: 3rem 0;
+}
+
 /* ── HERO ── */
 #hero {
   min-height: 100vh;
