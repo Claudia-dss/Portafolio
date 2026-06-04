@@ -5,6 +5,8 @@ async function loadTranslations() {
   const res = await fetch('./translations.json');
   translations = await res.json();
   applyTranslation('es');
+} else {
+  el.textContent = t[key]; // sobreescribe el texto del HTML con el del JSON
 }
 
 function applyTranslation(lang) {
