@@ -53,9 +53,9 @@ Aplicación web integral (CRUD) diseñada bajo estrictos principios de arquitect
 Juego de tres en raya implementado puramente en Java que demuestra el dominio de la lógica estructurada.
 * **Highlights:** Control estricto de estados de juego, matriz de condiciones de victoria y gestión de flujos de interacción en Apache NetBeans.
 
-### 03. Plugin Personalizado para WordPress
-Diseño y desarrollo de un componente funcional enfocado en el rendimiento y la lógica de negocio limpia.
-* **Tecnologías:** PHP, JavaScript, CSS.
+### 03. Bot Asistente de Compra de Tickets (Legal)
+Monitorea stock específico de forma legal y se comunica con Backend Java.
+* **Tecnologías:** JAVA, JavaScript, HTML, JSON.
 
 ### 04. Acortador de URLs
 Aplicación fullstack rápida orientada a la optimización de redireccionamiento de enlaces de forma eficiente.
