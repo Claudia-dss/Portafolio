@@ -53,11 +53,7 @@ Aplicación web integral (CRUD) diseñada bajo estrictos principios de arquitect
 Juego de tres en raya implementado puramente en Java que demuestra el dominio de la lógica estructurada.
 * **Highlights:** Control estricto de estados de juego, matriz de condiciones de victoria y gestión de flujos de interacción en Apache NetBeans.
 
-### 03. Bot Asistente de Compra de Tickets (Legal)
-Monitorea stock específico de forma legal y se comunica con Backend Java.
-* **Tecnologías:** JAVA, JavaScript, HTML, JSON.
-
-### 04. Acortador de URLs
+### 03. Acortador de URLs
 Aplicación fullstack rápida orientada a la optimización de redireccionamiento de enlaces de forma eficiente.
 * **Tecnologías:** Next.js, SQLite, Tailwind CSS (Uso de Route Handlers).
 
