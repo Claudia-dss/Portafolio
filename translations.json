@@ -39,10 +39,8 @@
     "proj1.desc":  "Aplicación web fullstack con CRUD completo, diseñada bajo principios de arquitectura limpia. Pensada para el seguimiento botánico.",
     "proj2.title": "Bot para conseguir entradas",
     "proj2.desc":  "Diseño y desarrollo de bot funcional desde cero. Este bot espera en la cola virtual y consigue tus entradas. Desarrollado con Java, SpringBoot y javaScript.",
-    "proj3.title": "TicTacToe",
-    "proj3.desc":  "Juego de tres en raya implementado puramente en Java. Proyecto que demuestra manejo de lógica de juego, estados y condiciones de victoria.",
-    "proj4.title": "Acortador de URLs",
-    "proj4.desc":  "Aplicación web fullstack que optimiza la redirección de enlaces mediante Route Handlers.",
+    "proj3.title": "Acortador de URLs",
+    "proj3.desc":  "Aplicación web fullstack que optimiza la redirección de enlaces mediante Route Handlers.",
 
     "edu.tag":   "Formación",
     "edu.title": "Base académica",
@@ -97,11 +95,9 @@
     "proj1.title": "Plant Management System",
     "proj1.desc":  "Fullstack web application with complete CRUD functionality, designed under clean architecture principles for botanical tracking.",
     "proj2.title": "Bot for buy Concert Tickets",
-    "proj2.desc":  "Design and development of a functional bot from scratch. This bot waits in the virtual queue and gets your tickets. Developed with Java, SpringBoot and JavaScript."
-    "proj3.title": "TicTacToe",
-    "proj3.desc":  "Tic-tac-toe game implemented purely in Java. A project demonstrating core game logic, state management, and win conditions.",
-    "proj4.title": "URL Shortener",
-    "proj4.desc":  "Fullstack web application that optimizes link redirection using Route Handlers.",
+    "proj2.desc":  "Design and development of a functional bot from scratch. This bot waits in the virtual queue and gets your tickets. Developed with Java, SpringBoot and JavaScript.",
+    "proj3.title": "URL Shortener",
+    "proj3.desc":  "Fullstack web application that optimizes link redirection using Route Handlers.",
 
     "edu.tag":   "Education",
     "edu.title": "Academic background",
