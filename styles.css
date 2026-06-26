@@ -635,7 +635,7 @@ footer {
   .soft-skills       { gap: 0.5rem; }
 }
 
-/* ── MARQUEE ── */
+/* ── MARQUEE ── 
 .marquee-wrapper {
   overflow: hidden;
 }
@@ -652,7 +652,7 @@ footer {
   to   { transform: translateX(-50%);  }
 }
 
-/* Pausa al pasar el ratón por encima */
+/* Pausa al pasar el ratón por encima 
 .marquee-wrapper:hover .marquee-track {
   animation-play-state: paused;
-}
+}*/
