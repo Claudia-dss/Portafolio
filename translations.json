@@ -37,6 +37,8 @@
     "exp.li3":    "WordPress avanzado: plugins personalizados, CPT, ACF e integración con REST API.",
     "proj1.title": "Sistema de Gestión de Plantas",
     "proj1.desc":  "Aplicación web fullstack con CRUD completo, diseñada bajo principios de arquitectura limpia. Pensada para el seguimiento botánico.",
+    "proj2.title": "Generador de Notas para Podcast",
+    "proj2.desc":  "Reducción del trabajo manual de gestión de contenido mediante una interfaz interactiva soportada por un CRUD completo.",
     
     "edu.tag":   "Formación",
     "edu.title": "Base académica",
@@ -90,6 +92,8 @@
     "exp.li3":    "Advanced WordPress: custom plugins, CPT, ACF and REST API integration.",
     "proj1.title": "Plant Management System",
     "proj1.desc":  "Fullstack web application with complete CRUD functionality, designed under clean architecture principles for botanical tracking.",
+    "proj2.title": "Podcast Notes Generator",
+    "proj2.desc":  "Reduction of manual content management work through an interactive interface supported by a complete CRUD.",
     
     "edu.tag":   "Education",
     "edu.title": "Academic background",
