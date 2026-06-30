@@ -652,7 +652,6 @@ footer {
   to   { transform: translateX(-50%);  }
 }
 
-/* Pausa al pasar el ratón por encima 
 .marquee-wrapper:hover .marquee-track {
   animation-play-state: paused;
 }
